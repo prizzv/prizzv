@@ -1,7 +1,7 @@
 ![Head](https://github.com/prizzv/prizzv/assets/84437216/50908498-4465-4e0c-af85-37255e63267f)
 
 # 💫 About Me:
-<h3 > Hi 👋,I'm Shashank Kota </h1><br>🔭 I’m currently focusing on DSA & backend web development.<br><br>🌱 I’m learning more about  Backend & Flutter development.<br><br>👯 I’m looking to collaborate on anything free and open source.<br><br>📫 How to reach me: Email - srkota1951@gmail.com <br><br>View my portfolio <a href="https://shashank-portfolio-five.vercel.app/" target="_blank">here</a>
+<h3 > Hi 👋,I'm Shashank Kota </h1><br>🔭 I’m currently focusing on DSA & backend web development.<br><br>🌱 I’m learning more about  Backend & Flutter development.<br><br>👯 I’m looking to collaborate on anything free and open source.<br><br>📫 How to reach me: Email - srkota1951@gmail.com <br><br>Dive into my portfolio <a href="https://shashank-portfolio-five.vercel.app/" target="_blank">here</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shashaankk._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-kota-6a2226211) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Shashaank-Kota) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18496393) 
